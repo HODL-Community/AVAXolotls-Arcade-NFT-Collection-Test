@@ -1,0 +1,48 @@
+{
+  "name": "Mobster Combo",
+  "description": "This NFT Contains 2 traits: Mobster - Clothing, & Pinstripe Fedora - Hat",
+  "image": "https://raw.githubusercontent.com/HODL-Community/AVAXolotl-Arcade-NFT-Collection/main/images/Basic/Mobster%20Combo.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "None"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "None"
+    },
+    {
+      "trait_type": "Gills",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Mobster"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Pinstripe Fedora"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    },
+    {
+      "trait_type": "Back",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
