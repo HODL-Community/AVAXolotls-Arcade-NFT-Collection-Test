@@ -1,6 +1,6 @@
 {
-    "name": "Knight Combo (Open Helmet)",
-    "description": "This NFT Contains 2 traits: Knight Armour - Clothing, & Knight Helmet (Open) - Hat",
+    "name": "Custom Trait Combo",
+    "description": "This NFT contains a custom set of traits",
     "image": "https://raw.githubusercontent.com/HODL-Community/AVAXolotls-Arcade-NFT-Collection-Test/main/images/7.png",
     "attributes": [
         {
@@ -17,7 +17,7 @@
         },
         {
             "trait_type": "Clothing",
-            "value": "Black Suit"
+            "value": "Knight Armour"
         },
         {
             "trait_type": "Mouth",
@@ -33,7 +33,7 @@
         },
         {
             "trait_type": "Hat",
-            "value": "Beret"
+            "value": "Knight Helmet (Open)"
         },
         {
             "trait_type": "Accessory",
